@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://cp.zyrostore.id:3646",
+  "ratBaseUrl": "http://cp.zyrostore.id:3646",
+  "ratSocketUrl": "http://cp.zyrostore.id:3646",
+  "wsRawUrl": "ws://cp.zyrostore.id:3646/ws-raw"
+}
